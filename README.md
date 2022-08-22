@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![KY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyahn23&theme=dark)](https://github.com/kyahn23/github-readme-stats)
 <!--
 **kyahn23/kyahn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
