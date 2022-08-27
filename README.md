@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!!&fontSize=90)-->
 [![KY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyahn23&theme=dark)](https://github.com/kyahn23/github-readme-stats)
 <!--
